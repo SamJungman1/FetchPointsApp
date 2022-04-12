@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FetchPointsApp", "FetchPointsApp\FetchPointsApp.csproj", "{AADF8C76-A8FF-47FB-B4A5-ACFDAB39999A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AADF8C76-A8FF-47FB-B4A5-ACFDAB39999A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AADF8C76-A8FF-47FB-B4A5-ACFDAB39999A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AADF8C76-A8FF-47FB-B4A5-ACFDAB39999A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AADF8C76-A8FF-47FB-B4A5-ACFDAB39999A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AE3FB71-C48A-47DB-B4F8-560F939B1C5B}
+	EndGlobalSection
+EndGlobal
